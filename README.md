@@ -18,3 +18,8 @@ Steps to run the code:
 1. Install all dependencies command: pip install -r requirements.txt
 2. Build the model command:  python build_model.py
 3. To start the streamlit app RUN COMMAND: streamlit run main.py
+
+
+Streamlit UI:
+<img width="959" alt="image" src="https://github.com/shrinalawade/Medical_Image_Classification/assets/26817905/5ed16ec4-6030-49d7-85d7-c60cc5acfd7c">
+
